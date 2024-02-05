@@ -2,7 +2,7 @@
 
 #Excel #Excel-Data-Analysis
 
-Sample Insights
+Sample Insights:
 1.Women are more likely to by compared to men(~65%)
 2.Maharashtra, Karnataka and Uttar Pradesh are top 3 states in sales(~35%)
 3.Adult age group (30-49 yrs) is max contributing(~50%)
